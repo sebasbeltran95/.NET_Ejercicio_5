@@ -1,0 +1,14 @@
+D:\platzi\Strings\Strings\bin\Debug\net6.0\Strings.exe
+D:\platzi\Strings\Strings\bin\Debug\net6.0\Strings.deps.json
+D:\platzi\Strings\Strings\bin\Debug\net6.0\Strings.runtimeconfig.json
+D:\platzi\Strings\Strings\bin\Debug\net6.0\Strings.dll
+D:\platzi\Strings\Strings\bin\Debug\net6.0\Strings.pdb
+D:\platzi\Strings\Strings\obj\Debug\net6.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\platzi\Strings\Strings\obj\Debug\net6.0\Strings.AssemblyInfoInputs.cache
+D:\platzi\Strings\Strings\obj\Debug\net6.0\Strings.AssemblyInfo.cs
+D:\platzi\Strings\Strings\obj\Debug\net6.0\Strings.csproj.CoreCompileInputs.cache
+D:\platzi\Strings\Strings\obj\Debug\net6.0\Strings.dll
+D:\platzi\Strings\Strings\obj\Debug\net6.0\refint\Strings.dll
+D:\platzi\Strings\Strings\obj\Debug\net6.0\Strings.pdb
+D:\platzi\Strings\Strings\obj\Debug\net6.0\Strings.genruntimeconfig.cache
+D:\platzi\Strings\Strings\obj\Debug\net6.0\ref\Strings.dll
